@@ -1,4 +1,4 @@
-# pixel-racks
+  # pixel-racks
 A pixel art collection of A/V rackmount gear.
 
 ## What the heck is this thing?
@@ -12,7 +12,7 @@ Simply because it can, And the original plan was to help me design racks for my 
 
 ## Can I make my own?
 Of course! The standard dimensions of 1RU is 182x19. The height however can change depending on how many RU the device your making is. 
-And if you create one, feel free to contribute! 
+And if you create one, feel free to contribute! Did you make one that looks better? yay! Feel free to contribute it!
 
 ## Credits
 * Audio gear - ItsT3K
